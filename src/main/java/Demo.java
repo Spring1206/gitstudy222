@@ -4,6 +4,7 @@ public class Demo {
         System.out.println("hello git!!!222");
         System.out.println("hello git!!!333");
         System.out.println("master test");
+        System.out.println("hot-fix test");
 
     }
 }
